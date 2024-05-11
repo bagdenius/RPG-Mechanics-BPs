@@ -1,0 +1,53 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/stuff/programing/UE projects/first_RPG/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/stuff/programing/UE projects/first_RPG/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/stuff/programing/UE projects/first_RPG/Content/Characters/RPG_Character/Animations/Locomotion/Idle_Break.uasset",
+				"C:/stuff/programing/UE projects/first_RPG/Content/Characters/RPG_Character/Animations/Locomotion/Walk_Stop.uasset",
+				"C:/stuff/programing/UE projects/first_RPG/Content/Characters/RPG_Character/Animations/Crouched/Crouh_Walk.uasset",
+				"C:/stuff/programing/UE projects/first_RPG/Content/Characters/RPG_Character/Animations/Crouched/Crouch_Idle.uasset",
+				"C:/stuff/programing/UE projects/first_RPG/Content/Characters/RPG_Character/Animations/Locomotion/BS_Locomotion.uasset",
+				"C:/stuff/programing/UE projects/first_RPG/Content/Characters/RPG_Character/Animations/ABP_RPGCharacter.uasset",
+				"C:/stuff/programing/UE projects/first_RPG/Content/Characters/RPG_Character/Animations/Crouched/BS_Crouched.uasset",
+				"C:/stuff/programing/UE projects/first_RPG/Content/ThirdPerson/Input/IMC_Default.uasset",
+				"C:/stuff/programing/UE projects/first_RPG/Content/ThirdPerson/Input/Actions/IA_Crouch.uasset",
+				"C:/stuff/programing/UE projects/first_RPG/Content/Characters/RPG_Character/Animations/Lean/Lean_Left.uasset",
+				"C:/stuff/programing/UE projects/first_RPG/Content/Characters/RPG_Character/Animations/Lean/Lean_Right.uasset",
+				"C:/stuff/programing/UE projects/first_RPG/Content/Characters/RPG_Character/Animations/Lean/BS_Lean.uasset",
+				"C:/stuff/programing/UE projects/first_RPG/Content/Characters/Mannequins/Materials/Instances/Manny/MI_Manny_Blue_01.uasset",
+				"C:/stuff/programing/UE projects/first_RPG/Content/Characters/Mannequins/Materials/Instances/Manny/MI_Manny_Blue_02.uasset",
+				"C:/stuff/programing/UE projects/first_RPG/Content/Characters/RPG_Character/Animations/Vaulting/VaultOver.uasset",
+				"C:/stuff/programing/UE projects/first_RPG/Content/Characters/RPG_Character/Animations/Vaulting/VaultOver_Montage.uasset",
+				"C:/stuff/programing/UE projects/first_RPG/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/6R/7YA2QGV0SG29ZEPCLXLXWH.uasset",
+				"C:/stuff/programing/UE projects/first_RPG/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/DW/76F3ERBWRL9Y594Z6BE84X.uasset",
+				"C:/stuff/programing/UE projects/first_RPG/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/MD/C2DX7FXAHVRHH4SHRFNM8U.uasset",
+				"C:/stuff/programing/UE projects/first_RPG/Content/Characters/RPG_Character/Animations/Assassinations/UE4/Paired_Knife_Stealth_KidneyAndNeck_Vic.uasset",
+				"C:/stuff/programing/UE projects/first_RPG/Content/Characters/RPG_Character/Animations/Assassinations/UE4/Paired_Knife_Stealth_KidneyAndNeck_Att.uasset",
+				"C:/stuff/programing/UE projects/first_RPG/Content/Characters/RPG_Character/Animations/Assassinations/Paired_Knife_Stealth_KidneyAndNeck_Att.uasset",
+				"C:/stuff/programing/UE projects/first_RPG/Content/Characters/RPG_Character/Animations/Assassinations/Paired_Knife_Stealth_KidneyAndNeck_Vic.uasset",
+				"C:/stuff/programing/UE projects/first_RPG/Content/Characters/RPG_Character/Animations/Assassinations/Paired_Knife_Stealth_KidneyAndNeck_Att_Montage.uasset",
+				"C:/stuff/programing/UE projects/first_RPG/Content/ThirdPerson/Input/Actions/IA_Vault.uasset",
+				"C:/stuff/programing/UE projects/first_RPG/Content/Blueprints/BP_Dummy.uasset",
+				"C:/stuff/programing/UE projects/first_RPG/Content/ThirdPerson/Input/Actions/IA_Assassin.uasset",
+				"C:/stuff/programing/UE projects/first_RPG/Content/Blueprints/BPI_Assassination.uasset",
+				"C:/stuff/programing/UE projects/first_RPG/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/6K/LSZIRZOHPRATFYA4L14C0S.uasset",
+				"C:/stuff/programing/UE projects/first_RPG/Content/Characters/RPG_Character/Animations/Assassinations/Paired_Knife_Stealth_KidneyAndNeck_Vic_Montage.uasset",
+				"C:/stuff/programing/UE projects/first_RPG/Content/UI/UWB_AssassinatePrompt.uasset",
+				"C:/stuff/programing/UE projects/first_RPG/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/FH/72JYHIIUZ78X7NGJID4U7C.uasset",
+				"C:/stuff/programing/UE projects/first_RPG/Content/Characters/RPG_Character/Animations/Idle_Break.uasset",
+				"C:/stuff/programing/UE projects/first_RPG/Content/Characters/RPG_Character/Animations/Crouh_Walk.uasset",
+				"C:/stuff/programing/UE projects/first_RPG/Content/Characters/RPG_Character/Animations/Crouch_Idle.uasset",
+				"C:/stuff/programing/UE projects/first_RPG/Content/Characters/RPG_Character/Animations/Walk_Stop.uasset",
+				"C:/stuff/programing/UE projects/first_RPG/Content/Characters/RPG_Character/Animations/Crouch/Crouch_Idle.uasset",
+				"C:/stuff/programing/UE projects/first_RPG/Content/Characters/RPG_Character/Animations/Crouch/Crouh_Walk.uasset",
+				"C:/stuff/programing/UE projects/first_RPG/Content/Characters/Mannequins/Materials/Instances/Manny/MI_Manny_Blue.uasset",
+				"C:/stuff/programing/UE projects/first_RPG/Content/Characters/Mannequins/Materials/Instances/Manny/MI_Manny_Blue2.uasset"
+			]
+		}
+	]
+}
